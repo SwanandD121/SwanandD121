@@ -28,8 +28,15 @@
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swanandd121" alt="swanandd121" /></a> </p>
 
-<h3 align="left">GSSoC'24:</h3>
-<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="Explorer Badge" width="100" height="100">
+<h3>GSSOC'24 Badges:</h3> 
+<div style='display:flex; gap: 10px;'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /> 
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 
 <h3 align="left">Stats:</h3>
