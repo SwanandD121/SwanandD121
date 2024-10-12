@@ -30,13 +30,17 @@
 
 <h3>GSSOC'24 Badges:</h3> 
 <div style='display:flex; gap: 10px;'>
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /> 
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
 </div>
+
+
+<h3>Hacktober Fest 2024:</h3>
+  <img src="https://holopin.me/swanandd121" height="300px" />
 
 
 <h3 align="left">Stats:</h3>
