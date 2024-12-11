@@ -1,10 +1,68 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FSwanandD12187689.png?alt=media)
+<h1 align="center">Hi 👋, I'm Swanand Deshpande</h1>
+<h3 align="center">A passionate web developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swanandd121&label=Profile%20views&color=0e75b6&style=flat" alt="swanandd121" /> </p>
+
+<img src="https://github.com/user-attachments/assets/84c792a3-d120-4826-9f13-e2b2ddaf0576" alt="Alt Text" width="450" align="right">
+
+
+- 🔭 I’m currently working on **multiple Full Stack projects and designs**
+
+- 🌱 I’m currently learning **NextJS, MySQL**
+
+- 📫 How to reach me **swananddeshpande121@gmail.com**
+
+- ⚡ Fun fact **I'm a hobbyist photographer**
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwanandD121&theme=discord&column=9" alt="swanandd121" height="150"/></a> </p>
 
-<p><a src="https://github-profile-trophy.vercel.app/?username=SwanandD121&theme=discord"></a></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+<hr style="height: 2px" >
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+</div>
+
+<hr>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwanandD121&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=Swanand's%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwanandD121&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SwanandD121&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<hr>
+  
+<img src="https://github-profile-trophy.vercel.app?username=SwanandD121&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <hr>
 
@@ -22,3 +80,12 @@
 <img src="https://holopin.me/swanandd121" height="300px" />
 
 <hr>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanandD121&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Swanand's%20Contribution%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SwanandD121.SwanandD121&"  />
+</div>
